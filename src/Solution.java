@@ -47,9 +47,10 @@ public class Solution {
                 olcsoLista.add(car);
             }
         }
-        System.out.print("drágák: ");
+        System.out.println("drágák: ");
     kiirlista(dragaLista);
 
+        System.out.println(" ");
 
     System.out.println("olcsok: ");
     kiirlista(olcsoLista);
